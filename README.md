@@ -1,4 +1,3 @@
-# AWS-Academy-Cloud-Architecting-Capstone-Project
 # AWS Cloud Architecting Capstone Project
 
 ## Building a Secure, Scalable, and Highly Available Web Application on AWS
